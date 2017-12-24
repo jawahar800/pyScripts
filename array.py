@@ -1,3 +1,7 @@
+'''
+Given an array of non-negative integers. Our task is to find minimum number of elements such that their sum should be greater than the sum of rest of the elements of the array.
+'''
+
 array = [8,2,3,4,5,6,7,1]
 print("Input Array: {}".format(array))
 
